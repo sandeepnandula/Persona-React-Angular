@@ -1,5 +1,6 @@
 # Persona React component in Angular
 
+![Uploading Screenshot 2024-01-25 at 9.42.32 PM.png…]()
 
 # Ref
 https://blog.harveydelaney.com/integrating-react-components-into-an-angular-2-project/
